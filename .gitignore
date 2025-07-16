@@ -8,3 +8,10 @@
 **/.env.test
 **/.env.production
 
+**/__pycache__/
+
+# Session files
+.session
+
+# Virtual environment
+**/.venv

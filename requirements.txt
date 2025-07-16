@@ -1,1 +1,3 @@
+# for `multi_tool_agent`
+# In each directory except `multi_tool_agent`, refer to README.md for installation
 google-adk
